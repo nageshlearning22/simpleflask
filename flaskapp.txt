@@ -1,0 +1,26 @@
+mkdir flask_docker_demo
+cd flask_docker_demo #to change the directory
+gedit demo.py
+python demo.py
+sudo docker build --tag flask-docker-demo-app .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo ln -s /usr/bin/python3 /usr/bin/python
+sudo apt instll python3-pip
+
+
